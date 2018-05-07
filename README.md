@@ -6,7 +6,7 @@ dataset.
 Get the data at https://www.bingbrunton.com/data
 
 Published as:
-Wang, X. R. N., Farhadi, A., Rao, R., & Brunton, B. (2018). 
+Wang, NXR., Farhadi, A., Rao, R., & Brunton, B. (2018). 
 AJILE Movement Prediction: 
 Multimodal Deep Learning for Natural Human Neural Recordings and Video. 
 In Proceedings of the 32nd AAAI Conference on Artificial Intelligence (AAAI).
